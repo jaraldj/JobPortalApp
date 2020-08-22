@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="toolbar_color">#F40404</color>
+
+    <color name="fabcolor">#5C1193</color>
+    <color name="text_Color">#2C0847</color>
+
+    <color name="date_text_clr">#1A48EF</color>
+    <color name="salary_clr">#EC0606</color>
+
+    <color name="activity_date">#6E0785</color>
+</resources>

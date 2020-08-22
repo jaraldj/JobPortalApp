@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Job Portal App</string>
+
+    <string name="log_in">Log in</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="or">OR</string>
+    <string name="registration">Registration</string>
+
+    <string name="seeAllJob">See All Job Post</string>
+    <string name="postJob">Post A Job</string>
+
+    <string name="jobTitle">Job Title:</string>
+    <string name="jobDescription">Job Description:</string>
+    <string name="jobSkill">Skill:</string>
+    <string name="jobSalary">Salary:</string>
+
+    <string name="btnPostJob">Post Job</string>
+
+    <string name="jobTitleItem">Job Title...</string>
+    <string name="jobTitleDAte">25 June 2020</string>
+    <string name="jobTitleDescription">Description</string>
+    <string name="jobTitleSkills">Skills</string>
+    <string name="jobTitleSalary">Salary</string>
+
+    <string name="jobTitleLay">Job Title</string>
+</resources>
